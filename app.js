@@ -1,0 +1,1 @@
+//New feature is now add to the app.js 
